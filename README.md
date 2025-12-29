@@ -9,6 +9,8 @@ dy各类加密
 # 小红书新版x-s
 # tiktok Gnarly
 # tiktok 滑块
+# tiktok 双旋转
+# tiktok x-mssdk-info
 承接各类加密逆向，记着备注，客户较多，得做1V1，回复可能不及时，见谅
 
 微信:mh406817
